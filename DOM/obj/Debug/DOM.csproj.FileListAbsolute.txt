@@ -1,0 +1,6 @@
+C:\Users\master\source\repos\Patron Repository\DOM\bin\Debug\DOM.dll
+C:\Users\master\source\repos\Patron Repository\DOM\bin\Debug\DOM.pdb
+C:\Users\master\source\repos\Patron Repository\DOM\obj\Debug\DOM.csprojAssemblyReference.cache
+C:\Users\master\source\repos\Patron Repository\DOM\obj\Debug\DOM.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Patron Repository\DOM\obj\Debug\DOM.dll
+C:\Users\master\source\repos\Patron Repository\DOM\obj\Debug\DOM.pdb

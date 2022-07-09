@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\Patron Repository.exe.config
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\Patron Repository.exe
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\Patron Repository.pdb
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\DAL.dll
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\DOM.dll
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\DAL.pdb
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\DOM.pdb
+C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.csprojAssemblyReference.cache
+C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron_Repository.Form1.resources
+C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron_Repository.Properties.Resources.resources
+C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.csproj.GenerateResource.cache
+C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.csproj.CopyComplete
+C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.exe
+C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.pdb

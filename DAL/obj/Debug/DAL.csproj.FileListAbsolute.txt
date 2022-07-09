@@ -1,0 +1,9 @@
+C:\Users\master\source\repos\Patron Repository\DAL\bin\Debug\DAL.dll
+C:\Users\master\source\repos\Patron Repository\DAL\bin\Debug\DAL.pdb
+C:\Users\master\source\repos\Patron Repository\DAL\bin\Debug\DOM.dll
+C:\Users\master\source\repos\Patron Repository\DAL\bin\Debug\DOM.pdb
+C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.dll
+C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.pdb
