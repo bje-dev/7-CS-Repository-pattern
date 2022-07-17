@@ -1,6 +1,7 @@
 ﻿using DAL.Contracts;
 using DAL.Repositories.SqlServer;
 using DOM;
+using SL.SER;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -28,6 +29,11 @@ namespace Patron_Repository
             Address address = genericRepository.GetOne(id);
 
             label3.Text = address.Street;
+
+            
+            LoggerManager.GetInstance().Write("Bienvenido al Logger",System.Diagnostics.Tracing.EventLevel.Informational);
+
+
 
 
         }

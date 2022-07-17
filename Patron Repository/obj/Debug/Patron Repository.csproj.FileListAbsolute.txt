@@ -13,3 +13,5 @@ C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patro
 C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.csproj.CopyComplete
 C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.exe
 C:\Users\master\source\repos\Patron Repository\Patron Repository\obj\Debug\Patron Repository.pdb
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\SL.dll
+C:\Users\master\source\repos\Patron Repository\Patron Repository\bin\Debug\SL.pdb

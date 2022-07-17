@@ -7,3 +7,5 @@ C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.csproj.CoreComp
 C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.dll
 C:\Users\master\source\repos\Patron Repository\DAL\obj\Debug\DAL.pdb
+C:\Users\master\source\repos\Patron Repository\DAL\bin\Debug\SL.dll
+C:\Users\master\source\repos\Patron Repository\DAL\bin\Debug\SL.pdb

@@ -88,6 +88,10 @@
       <Project>{FAFF3EB8-C8EF-4156-BF8A-2F0F75A4BD34}</Project>
       <Name>DOM</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SL\SL.csproj">
+      <Project>{FB6C1636-6FBA-4D4A-A850-D8B3D8593539}</Project>
+      <Name>SL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

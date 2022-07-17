@@ -1,9 +1,11 @@
 ﻿using DAL.Contracts;
 using DAL.Tools;
 using DOM;
+using SL.SER;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Diagnostics.Tracing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -40,6 +42,8 @@ namespace DAL.Repositories.SqlServer
         }
         #endregion
 
+        
+
         public void Delete(Guid id)
         {
             throw new NotImplementedException();
@@ -52,9 +56,11 @@ namespace DAL.Repositories.SqlServer
 
         public Address GetOne(Guid id)
         {
-            Address address = default;
+            
+            LoggerManager.GetInstance().Write("Pasando por la DAL", EventLevel.Informational);
 
-            //LoggerManager.Current.Write("Pasando por la DAL", EventLevel.Informational);
+
+            Address address = default;
 
             using (var dr = SqlHelper.ExecuteReader(SelectOneStatement, System.Data.CommandType.Text,
                                                     new SqlParameter[] { new SqlParameter("@IdAddress", id) }))
